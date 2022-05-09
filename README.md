@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=#238F72DB&height=300&section=header&text=Hello%20I'm%20JUNGSOONIL&fontSize=60" />
 <h2> Hello, I'm JUNGSOONIL 👋 </h2>
 
   
