@@ -9,6 +9,7 @@
 <a href="https://soonil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory%20Blog-FF8800?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
 <a href="https://www.instagram.com/jung_soon_il/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
+<br>
   
 ### 🛠️ Tech Stack & Tools 🛠️
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -27,6 +28,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 
+<br>
   
 ### 📊 Statistics 📊
 ![JUNGSOONIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGSOONIL&show_icons=true&theme=buefy)
