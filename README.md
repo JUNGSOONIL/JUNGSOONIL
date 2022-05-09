@@ -6,13 +6,11 @@
 
 <br>
 <br>
-<br>
-  
+
 ### 📞Contact & Channels📞
 <a href="https://soonil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory%20Blog-FF8800?style=flat-square&logo=[4. 로고명(아이콘명)]&logoColor=white"/></a>
 <a href="https://www.instagram.com/jung_soon_il/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<br>
 <br>
 <br>
   
@@ -33,12 +31,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
   
-  
 <br>
 <br>
-<br>
-  [![JUNGSOONIL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNGSOONIL&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JUNGSOONIL)
- [![Solved.ac
+
+[![JUNGSOONIL's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNGSOONIL&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JUNGSOONIL)
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=soonil0119)](https://solved.ac/soonil0119)
 ![JUNGSOONIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNGSOONIL&show_icons=true&theme=buefy)
 </div>
