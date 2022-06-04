@@ -9,7 +9,7 @@
 <a href="mailto:soonil0119@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jung_soon_il/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://soonil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory%20Blog-FF8800?style=flat-square&logo=Bitdefender&logoColor=white"/></a>
-<a href="https://ionized-sugar-931.notion.site/5f87d5dab7de4ed58b2dfdb2f1d320a4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://ionized-sugar-931.notion.site/48c02e919f72415eb9b06ce7d4cc1a29" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <br>
   
